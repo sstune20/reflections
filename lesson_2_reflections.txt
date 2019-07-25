@@ -1,2 +1,8 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The working derectory is the area where I am currently working. It is where my files live. The staging area is when GIT starts tracking and saving changes that occur in files. The repository is everything in my .git directory. It offers the value of saving and tracking thus files, that I want.
+ How can you use the staging area to make sure you have one commit per logical change?
+ If I have made more than one logical change since committing, I can add all  the changes affected by the first logical change to the staging area, then  commit those without committing the others.
+ What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+ That are situations when I want to add some new features, to test them without making changes in "master" branch. Branches help us to organize our commits in avaible to use "tree".
+ How do the diagrams help you visualize the branch structure?
+ It is easy to see, what commit each branch refers to.
