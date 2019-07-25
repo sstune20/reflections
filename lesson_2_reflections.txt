@@ -1,0 +1,2 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The working derectory is the area where I am currently working. It is where my files live. The staging area is when GIT starts tracking and saving changes that occur in files. The repository is everything in my .git directory. It offers the value of saving and tracking thus files, that I want.
